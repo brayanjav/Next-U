@@ -1,0 +1,12 @@
+autoplay reproduce automaticamente
+controls crea las barras automaticamente
+loop repite
+preload guarda los archivos una vez se haya abierto
+
+video:
+width ancho pixeles
+height alto pixeles
+poster imagen si el bideo no inicia
+
+
+T&uacute;tulo  tilde en htmle cambio la primer vocal
